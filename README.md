@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -25,18 +25,18 @@
       <section>
         <h2 class="text-3xl font-bold text-center text-blue-700 mb-4">Tentang Kami</h2>
         <p class="text-lg text-gray-700 leading-relaxed text-justify">
-          PT Mint Bercahaya adalah perusahaan yang berbasis di Indonesia dan bergerak dalam bidang penjualan furniture, alat musik berbahan kayu, serta penyediaan bahan baku kayu berkualitas tinggi. Sejak didirikan pada tahun 1998, kami berkomitmen untuk menjadi pelaku utama dalam industri berbasis kayu dengan mengedepankan kualitas, keberlanjutan, dan nilai seni dalam setiap produk yang kami tawarkan.
+          Janji Jiwa didirikan oleh Billy Kurniawan pada tanggal 15 Mei 2018 di Jakarta. Sebelum mendirikan Janji Jiwa, Billy memiliki usaha kedai bubble tea bernama Calais. Dengan pengalaman tersebut, ia memulai Janji Jiwa dengan konsep "fresh-to-cup", menyajikan kopi lokal Indonesia dengan cita rasa klasik. Gerai pertama Janji Jiwa dibuka di ITC Kuningan, Jakarta Selatan, dengan penjualan awal sekitar 10 cangkir per hari .
         </p>
         <p class="text-lg text-gray-700 leading-relaxed text-justify mt-4">
-          Dengan keahlian kami dalam memilih dan mengolah kayu secara profesional, PT Mint Bercahaya menjadi mitra terpercaya bagi rumah tangga, musisi, pengrajin, hingga pelaku industri mebel. Setiap produk yang kami hasilkan dibuat dengan perhatian terhadap detail dan nilai seni tinggi.
+          Janji Jiwa mengusung nilai "A Cup for the Farmers, A Cup for the Partners, and A Cup for the People", yang mencerminkan komitmen mereka untuk mendukung petani kopi lokal, mitra bisnis, dan pelanggan. Dengan lebih dari 900 gerai yang tersebar di lebih dari 100 kota di Indonesia, Janji Jiwa terus berupaya membawa budaya kedai kopi Indonesia ke dunia .
         </p>
       </section>
 
  <!-- Footer -->
   <footer class="bg-white shadow mt-16" id="contact">
     <div class="container mx-auto px-4 py-8 text-center text-gray-600 text-sm">
-      <p>Hubungi kami di: <a href="mailto:info@mintbercahaya.co.id" class="text-blue-600 hover:underline">info@mintbercahaya.co.id</a></p>
-      <p class="mt-2">&copy; 2025 PT Mint Bercahaya. All rights reserved.</p>
+      <p>Hubungi kami di: <a href="mailto:info@mintbercahaya.co.id" class="text-blue-600 hover:underline">officeadmdipl.anastasia.a@ukwms.ac.id</a></p>
+      <p class="mt-2">&copy; 2025 Janji Jiwa</p>
     </div>
   </footer>
 
