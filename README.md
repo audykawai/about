@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -5,8 +6,8 @@
   <title>Contoh Tailwind</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-pink-100 text-yellow-800 font-sans">
-<body class="bg-pink-100 text-black-500">
+<body class="bg-pink-100 text-Black-800 font-sans">
+<body class="bg-pink-100 text-black-800">
 
   <!-- Header -->
   <header class="bg-white shadow">
@@ -31,3 +32,5 @@
          Janji Jiwa didirikan oleh Billy Kurniawan pada tanggal 15 Mei 2018 di Jakarta. Sebelum mendirikan Janji Jiwa, Billy memiliki usaha kedai bubble tea bernama Calais. Dengan pengalaman tersebut, ia memulai Janji Jiwa dengan konsep "fresh-to-cup", menyajikan kopi lokal Indonesia dengan cita rasa klasik. Gerai pertama Janji Jiwa dibuka di ITC Kuningan, Jakarta Selatan, dengan penjualan awal sekitar 10 cangkir per hari . Dengan keahlian kami dalam memilih dan mengolah kayu secara profesional, PT Mint Bercahaya menjadi mitra terpercaya bagi rumah tangga, musisi, pengrajin, hingga pelaku industri mebel. Setiap produk yang kami hasilkan dibuat dengan perhatian terhadap detail dan nilai seni tinggi.
         </p>
       </section> </div>
+</body>
+</html>
