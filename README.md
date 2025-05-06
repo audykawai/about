@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -6,8 +5,8 @@
   <title>Contoh Tailwind</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-pink-500 text-yellow-800 font-sans">
-<body class="bg-pink-500 text-black-800">
+<body class="bg-pink-100 text-yellow-800 font-sans">
+<body class="bg-pink-100 text-black-500">
 
   <!-- Header -->
   <header class="bg-white shadow">
