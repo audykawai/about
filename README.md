@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>About Us - PT Mint Bercahaya</title>
+  <title>About Us - Janji Jiwa</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-50 text-gray-800">
@@ -11,17 +11,17 @@
   <!-- Header -->
   <header class="bg-white shadow">
     <div class="container mx-auto px-4 py-4 flex justify-between items-center">
-      <h1 class="text-2xl font-bold text-blue-600 italic">PT Mint Bercahaya</h1>
+      <h1 class="text-2xl font-bold text-blue-600 italic">Janji Jiwa</h1>
 	  <!-- Main Content -->
   <main class="container mx-auto px-4 py-16">
     <div class="bg-white rounded-2xl shadow-lg p-8 space-y-10">
       
       <!-- Gambar -->
       <div class="flex justify-center">
-        <img src="https://menjadipengaruh.com/wp-content/uploads/2024/01/269077.jpg" alt="PT Mint Bercahaya" class="rounded-xl w-full max-w-4xl object-cover shadow-md" />
+        <img src="https://menjadipengaruh.com/wp-content/uploads/2024/01/269077.jpg" alt="Janji Jiwa" class="rounded-xl w-full max-w-4xl object-cover shadow-md" />
       </div>
 
-      <!-- Tentang Perusahaan -->
+      <!-- Tentang Kami -->
       <section>
         <h2 class="text-3xl font-bold text-center text-blue-700 mb-4">Tentang Kami</h2>
         <p class="text-lg text-gray-700 leading-relaxed text-justify">
